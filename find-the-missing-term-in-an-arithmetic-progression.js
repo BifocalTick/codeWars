@@ -7,7 +7,7 @@ to you. The rest of the given series is the same as the original AP. Find the mi
 You have to write the function findMissing (list) , list will always be atleast 3 numbers. 
 The missing term will never be the first or last one. Example : findMissing([1,3,5,9,11]) == 7
 
-ulr: https://www.codewars.com/kata/find-the-missing-term-in-an-arithmetic-progression 
+url: https://www.codewars.com/kata/find-the-missing-term-in-an-arithmetic-progression 
 
 */
 
